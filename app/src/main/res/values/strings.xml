@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Jeu de Nim</string>
+    <string name="Hello_World">Bienvenue sur le jeu de Nim</string>
+    <string name="playerInfo">Entrez votre pseudo pour commencer</string>
+    <string name="j1">Joueur 1 :</string>
+    <string name="j2">Joueur 2 :</string>
+    <string name="labelinfo">La longueur des pseudonymes doit être supérieure à 2 caractères.</string>
+    <string name="labellenghInfo">La longueur des pseudonymes ne doit pas excéder 15 caractères.</string>
+    <string name="choix">Dernier choix :</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="infoGame">Allumette(s) restante(s) :</string>
+    <string name="infoTurn">C\'est au tour de :</string>
+    <string name="infoInput">Entrez un chiffre :</string>
+    <string name="infoRules">Vous commencez avec 20 allumettes, vous pouvez en enlever entre 1 et 3. Le perdant est celui qui pioche la dernière.</string>
+    <string name="errorLong">Le chiffre doit être compris entre 1 ou 3.</string>
+    <string name="win">a gagné la partie.</string>
+    <string name="robot">Destructor</string>
+    <string name="perdre">Jouer contre l\'IA</string>
+    <string name="facile">Facile</string>
+    <string name="impossible">Impossible</string>
+    <string name="nocoched">Il faut sélectionner un niveau de difficulté.</string>
+
+</resources>

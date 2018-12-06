@@ -15,3 +15,6 @@ You can also play against an AI in two difficults levels (Easy or Impossible)
 Game Screen : You have to put a number between 1 and 3. The player who takes the last stick loose.
 
 <img src="https://i.imgur.com/VKqPEpM.png" width="200">
+
+
+You can preview the game by downloading the Presentation Video : video_nim.mov

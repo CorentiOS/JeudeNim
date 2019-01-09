@@ -4,7 +4,7 @@ Welcome to my first mobile game.
 
 This is a project of my 2nd year school.
 
-Home Screen : You can play against an other player on the same device
+Home Screen : You can play against an other player on the same device.
 
 <img src="https://i.imgur.com/RFzk5PA.png" width="200">
 
@@ -17,4 +17,6 @@ Game Screen : You have to put a number between 1 and 3. The player who takes the
 <img src="https://i.imgur.com/VKqPEpM.png" width="200">
 
 
-You can preview the game by downloading the Presentation Video : video_nim.mov
+You can preview this game by downloading the Presentation Video : video_nim.mov
+
+Thanks for reading !

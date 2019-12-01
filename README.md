@@ -18,5 +18,3 @@ Game Screen : You have to put a number between 1 and 3. The player who takes the
 
 
 You can preview this game by downloading the Presentation Video : video_nim.mov
-
-Thanks for reading !
